@@ -4,6 +4,7 @@
 #### I'm **Nate** (he/him), i'm studying Computer Science at the University of Michigan -- Ann Arbor.
 #### My main interests include Video Game Development, Computer Security, IT work, and Artificial Intelligence.
 
+### Clubs/Activities:
 [![](UMEngin.jpg)](https://bit.ly/3tW5EJd) [![](MichHackers.jpg)](https://www.michhackers.com/) [![](WolverineSoftLogo.jpg)](https://www.wolverinesoft.org/)
 
 ### Notable Classes At The University Of Michigan
