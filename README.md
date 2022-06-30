@@ -1,5 +1,8 @@
 I'm **Nate** (he/him), i'm studying Computer Science at the University of Michigan -- Ann Arbor.
-My main interests include Video Game Development, Computer Security, IT work, and Artificial Intelligence.
+My main interests include AI, Machine Learning, and Game Development in Unity.
+
+[Check out my Website](https://divisi.dev)  
+[Check out my LinkedIn](https://www.linkedin.com/in/nathantaylor21/)  
 
 ### Clubs/Activities:
 [![](UMEngin.jpg)](https://bit.ly/3tW5EJd) [![](MichHackers.jpg)](https://www.michhackers.com/) [![](WolverineSoftLogo.jpg)](https://www.wolverinesoft.org/)
