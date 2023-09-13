@@ -2,7 +2,7 @@
 
 <p>I am a highly motivated and passionate software developer, studying Computer Science at the University of Michigan. I have a proven track record in team collaborations as a developer, designer, and project manager during my time in college. </p>
 
-<p>I am <b>currently looking</b> for exciting opportunities as a Software Developer. #OpenToWork </p>
+<p>I am currently looking for exciting opportunities as a Software Developer. <b>#OpenToWork</b> </p>
 
 <p>Top skills: C++ • Python • C# • Unity Engine • Unreal Engine 5 • Project Management • Flask • React </p>
 
