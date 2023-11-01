@@ -8,7 +8,7 @@
 
 <p align="left"><img src="https://img.icons8.com/dusk/32/resume.png"/> <a href="https://docs.google.com/document/d/1kZo1lWJKI72Yy24u7wdutt74iA2SDzzp3VBmI0Hpcqw/preview" target="_blank">Check out my resume here.</a></p>
 
-<p align="left"><img src="https://img.icons8.com/quill/32/domain.png"/> Check out my <a href="https://nathantaylor1.github.io/portfolio/" target="_blank">website.</a></p>
+<p align="left"><img src="https://img.icons8.com/quill/32/domain.png"/> Check out my <a href="https://nathan-taylor.com/" target="_blank">website.</a></p>
 
 <p align="left"><img src="https://img.icons8.com/doodle/32/linkedin--v2.png"/> Connect with me on <a href="https://linkedin.com/in/nathantaylor21" target="_blank">LinkedIn.</a></p>
 
