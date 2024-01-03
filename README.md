@@ -1,15 +1,5 @@
-<h1 align="center">Hello, I'm Nathan Taylor!</h1>
+<h1 align="center">Hello, I'm Nathan Taylor, a Software Engineer, Web Developer, & Game Designer.</h1>
 
-<p>I am a highly motivated and passionate software developer, studying Computer Science at the University of Michigan. I have a proven track record in team collaborations as a developer, designer, and project manager during my time in college. </p>
-
-<p>I am currently looking for exciting opportunities as a Software Developer. <b>#OpenToWork</b> </p>
+<p>I'm a passionate and detail-oriented Software Engineer based in Ann Arbor, MI. I've recently graduated with a Bachelor's degree in Computer Science from the University of Michigan. Throughout my academic journey, I excelled in a diverse range of coursework, including Data Structures & Algorithms, Computer Vision, and Software for Accessibility. As a Software Engineer Intern at MoonRift Entertainment, I contributed to the design and creation of a Card-based Tower Defense game using Unity. I've also worked on projects such as the "StretchVR" Virtual Reality App, a scalable Search Engine, an Instagram Clone, an Augmented Reality app for exploring Ann Arbor, and an iOS app called "CalibrateYourView" aimed at improving visual settings accessibility. I am proficient in languages such as C++, Python, and JavaScript, and experienced in Unreal Engine 5 and Unity Engine. I am dedicated to pushing the boundaries of technology and creating innovative solutions.</p>
 
 <p>Top skills: C++ • Python • C# • Unity Engine • Unreal Engine 5 • Project Management • Flask • React </p>
-
-<p align="left"><img src="https://img.icons8.com/dusk/32/resume.png"/> <a href="https://docs.google.com/document/d/1kZo1lWJKI72Yy24u7wdutt74iA2SDzzp3VBmI0Hpcqw/preview" target="_blank">Check out my resume here.</a></p>
-
-<p align="left"><img src="https://img.icons8.com/quill/32/domain.png"/> Check out my <a href="https://nathan-taylor.com/" target="_blank">website.</a></p>
-
-<p align="left"><img src="https://img.icons8.com/doodle/32/linkedin--v2.png"/> Connect with me on <a href="https://linkedin.com/in/nathantaylor21" target="_blank">LinkedIn.</a></p>
-
-<p align="left"><img src="https://img.icons8.com/color/32/new-post.png"/> Contact me at <b>nathantaylor.nate@gmail.com</b></p>
